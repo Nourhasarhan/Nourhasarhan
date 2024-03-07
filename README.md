@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nourhasarhan
-- 👀 I’m interested in mobile development and problem solving
-- 🌱 I’m currently learning mobile application IOS "Java"
+- 👀 I’m interested in web development and problem solving
+- 🌱 I’m currently learning Django using python
 - 💞️ I’m looking to collaborate on...
 
 
